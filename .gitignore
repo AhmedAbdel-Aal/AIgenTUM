@@ -1,0 +1,20 @@
+# all txt files
+*.txt
+
+# all json files
+*.json
+
+
+# all files in the (matching_results, student_data, thesis_data) directory
+matching_results/
+student_data/
+thesis_data/
+
+# all jupyter notebook files
+*.ipynb
+
+# env file
+.env
+
+# cache files
+__pycache__/
